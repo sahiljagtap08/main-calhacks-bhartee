@@ -1,6 +1,6 @@
 reflex==0.6.3
 uvicorn==0.22.0
-httpx==0.24.0
+httpx
 clerk_backend_api
 singlestoredb==0.8.1
 chromadb
