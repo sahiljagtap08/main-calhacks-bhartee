@@ -1,14 +1,14 @@
-# requirements.txt
-fastapi==0.95.1
-uvicorn==0.22.0
-httpx==0.24.0
-singlestoredb==0.8.1
-chromadb==0.3.26
-groq==0.4.0
-python-dotenv==0.19.2
-boto3==1.26.142
-requests>=2.26.0,<2.29.0  # Use a compatible version range for requests
-agora-token-builder==1.0.0
-pytest==7.3.1
-pytest-asyncio==0.21.0
 reflex==0.6.3
+fastapi>=0.96.0,<0.111.0
+uvicorn==0.24.0
+httpx==0.25.1
+clerk-sdk-python==0.1.0
+singlestoredb==0.8.1
+chromadb==0.4.15
+groq==0.4.0
+python-dotenv==1.0.0
+boto3==1.33.0
+requests==2.31.0
+agora-token-builder==1.0.0
+pytest==7.4.3
+pytest-asyncio==0.21.1
