@@ -1,7 +1,7 @@
 reflex==0.6.3
 uvicorn==0.22.0
 httpx==0.24.0
-clerk-sdk-python==0.3.0
+clerk_backend_api
 singlestoredb==0.8.1
 chromadb
 groq==0.4.0
