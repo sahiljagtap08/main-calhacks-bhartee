@@ -1,0 +1,30 @@
+# Build files
+# Database
+# Dependency directories
+# Environment variables
+# IDEs
+# Logs
+# OS generated files
+# Python
+# Reflex
+# Virtual environment
+*$py.class
+*.db
+*.log
+*.py[cod]
+*.sqlite3
+.DS_Store
+.env
+.idea/
+.reflex/
+.vscode/
+.web
+.web/
+Thumbs.db
+__pycache__/
+assets/external/
+build/
+dist/
+env/
+node_modules/
+venv/
