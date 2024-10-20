@@ -7,7 +7,6 @@ chromadb
 groq==0.4.0
 python-dotenv==0.19.2
 boto3==1.26.142
-requests==2.26.0
 agora-token-builder==1.0.0
 pytest==7.3.1
 pytest-asyncio==0.21.0
