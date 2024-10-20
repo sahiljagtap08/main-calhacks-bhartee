@@ -44,6 +44,6 @@ static_sites:
       repo: sahiljagtap08/main-calhacks-bhartee
       branch: main
     build_command: reflex export --frontend-only
-    output_dir: frontend/.web
+    output_dir: .web
     routes:
       - path: /static
